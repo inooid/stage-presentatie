@@ -1,5 +1,9 @@
-# BJ Fogg's Behaviour Model
+# Stage presentatie
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
+
+## View slides online
+
+You can find the slides online via [Github Pages](http://inooid.github.io/stage-presentatie)
 
 ## View slides locally
 
